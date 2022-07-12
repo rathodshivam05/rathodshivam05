@@ -1,6 +1,7 @@
 - 👋 Hi, I’m SHIVAM
 -I'm a Full Stack Web Developer Skilled in MERN stack who focuses on writing clean, elegant and efficient
 code.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodshivam05&label=Profile%20views&color=red&style=flat" alt="vishalbhuse" /> </p>
 
 <h2>Tech Stack</h2>
 <br/>
