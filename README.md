@@ -32,16 +32,16 @@ code.
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-      <a href="https://www.linkedin.com/in/shivam-rathod-763bb01a0/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="visha" ></a>
-      <a title="rathodshivam05@gmail.com" href="mailto:rathodshivam05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="visha" >
+      <a href="https://www.linkedin.com/in/shivam-rathod-763bb01a0/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shivam" ></a>
+      <a title="rathodshivam05@gmail.com" href="mailto:rathodshivam05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shivam" >
       </a>
-      <a title="portfolio" href="https://vishal-bhuse-portfolios.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
+      <a title="portfolio" href="https://prismatic-stroopwafel-45ac7d.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
       </a>
 <h3><i>GitHub's Stats <img         src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalbhuse&show_icons=true&locale=en" alt="vishalbhuse"  height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbhuse&show_icons=true&locale=en&layout=compact" alt="vishalbhuse"  height="150" />
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbhuse&" alt="vishalbhuse"   height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rathodshivam05&show_icons=true&locale=en" alt="Shivam Rathod"  height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rathodshivam05&show_icons=true&locale=en&layout=compact" alt="Shivam Rathod"  height="150" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rathodshivam05&" alt="Shivam Rathod"   height="150" />
 </p>
 
 <!---
