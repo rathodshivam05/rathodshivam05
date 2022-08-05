@@ -1,18 +1,20 @@
-<h1 align="center"> 👋 Hi, I’m Shivam Rathod </h1>
+<h1 align="center">Hi 👋, I'm Shivam </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rathodshivam05&label=Profile%20views&color=5E9F00&style=flat" alt="shivam rathod" /> </p>
+
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rathodshivam05&label=Profile%20views&color=5E9F00&style=flat" alt="shivam rathod" /> </p>
+
 
 <hr/>
 
 - 🔭 I’m currently working on **Learn Digital by Google**
 
-- 🌱 I’m currently learning **react, nodejs, mongooDB**
+- 🌱 I’m currently learning **react, nodejs, mongoDB**
 
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/rathodshivam05?tab=repositories"> My Github Repositories</a>
 
