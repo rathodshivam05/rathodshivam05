@@ -1,10 +1,31 @@
 <h1 align="center"> 👋 Hi, I’m Shivam Rathod </h1>
 
-<h3 align="center">I'm a Full Stack Web Developer Skilled in MERN stack who focuses on writing clean, elegant and efficient
-code.<h3/>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
+
+<!-- profile views-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rathodshivam05&label=Profile%20views&color=red&style=flat" alt="shivam rathod" /> </p>
-<h2>Tech Stack</h2>
+
+<hr/>
+
+- 🔭 I’m currently working on **Learn Digital by Google**
+
+- 🌱 I’m currently learning **react, nodejs, mongooDB**
+
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/rathodshivam05?tab=repositories"> My Github Repositories</a>
+
+- 📫 How to reach me rathodshivam@gmail.com
+
+
+<p align="left">
+</p>
+<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
+
 <br/>
+
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
@@ -36,13 +57,17 @@ code.<h3/>
       <a href="https://www.linkedin.com/in/shivam-rathod-763bb01a0/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shivam" ></a>
       <a title="rathodshivam05@gmail.com" href="mailto:rathodshivam05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shivam" >
       </a>
-      <a title="Portfolio" href="https://prismatic-stroopwafel-45ac7d.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" >
-      </a>
+      <a title="Portfolio" href="https://prismatic-stroopwafel-45ac7d.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" > </a>
+      
 <h3><i>GitHub's Stats <img         src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rathodshivam05&show_icons=true&locale=en" alt="Shivam Rathod"  height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rathodshivam05&show_icons=true&locale=en&layout=compact" alt="Shivam Rathod"  height="150" />
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rathodshivam05&" alt="Shivam Rathod"   height="150" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rathodshivam&theme=dracula" alt="rathod shivam"  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rathodshivam05&show_icons=true&locale=en&theme=react" alt="Shivam Rathod"  height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rathodshivam05&show_icons=true&locale=en&layout=compact&theme=react" alt="Shivam Rathod"  height="150" />
+
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rathodshivam05&&theme=react" alt="Shivam Rathod"   height="150" />
 </p>
 
 <!---
