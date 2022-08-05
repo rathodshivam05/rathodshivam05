@@ -6,8 +6,7 @@
 
 <h3><i>I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i></h3>
 
-<!-- profile views-->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rathodshivam05&label=Profile%20views&color=red&style=flat" alt="shivam rathod" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rathodshivam05&label=Profile%20views&color=5E9F00&style=flat" alt="shivam rathod" /> </p>
 
 <hr/>
 
