@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://github.com/rathodshivam05?tab=repositories"> My Github Repositories</a>
 
-- 📫 How to reach me rathodshivam@gmail.com
+- 📫 How to reach me rathodshivam05@gmail.com
 
 
 <p align="left">
