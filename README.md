@@ -68,7 +68,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rathodshivam05&show_icons=true&locale=en&layout=compact&theme=react" alt="Shivam Rathod"  height="150" />
 
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rathodshivam05&&theme=react" alt="Shivam Rathod"   height="150" />
+  
 </p>
 
 <!---
